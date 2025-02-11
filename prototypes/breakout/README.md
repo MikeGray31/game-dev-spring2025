@@ -7,7 +7,7 @@ The only controls in a basic version of prototype are moving a paddle back and f
 
 [Play Breakout Prototype 1](https://mikegray31.github.io/game-dev-spring2025/builds/breakout-1/)
 
-<img src="/images/prototype1.png" alt="Breakout gameplay" align="right" width="350">
+<img src="/images/prototype1.png" alt="Breakout Prototype 1" align="right" width="350">
 
 ## Prototype 2: Magnetic Gameplay
 
@@ -17,7 +17,7 @@ In playtesting several issues became prominent.  For one, there was no visual in
 
 [Play Breakout Prototype 2](https://mikegray31.github.io/game-dev-spring2025/builds/breakout-2/)
 
-<img src="/images/prototype2.png" alt="Breakout gameplay" align="right" width="350">
+<img src="/images/prototype2.png" alt="Breakout Prototype 2" align="right" width="350">
 
 ## Prototype 3: Refinement
 
@@ -28,6 +28,6 @@ Finally, red and blue indicators were added to the ball for the push and pull af
 
 [Play Breakout Prototype 3](https://mikegray31.github.io/game-dev-spring2025/builds/breakout-3/)
 
-<img src="/images/prototype3.png" alt="Breakout gameplay" align="right" width="350">
+<img src="/images/prototype3.png" alt="Breakout Prototype 3" align="right" width="350">
 
 ## Prototype 4: Refinement
