@@ -36,4 +36,18 @@ Finally, red and blue indicators were added to the ball for the push and pull af
 
 <img src="./images/Prototype3.png" alt="Breakout Prototype 3" width="350">
 
-## Prototype 4: Refinement
+## Prototype 4: The Final Touches
+
+The final prototype, a few modifications were added.
+
+Firstly, a trail that fades over time was added to the ball in order to emphasize the balls movement more clearly.
+
+Second, whenever bricks break, there is an visual explosion effect to emphasize the player making progress through the level.
+
+Finally, a modification to the gameplay was added.  If the player presses both the pull and push hotkeys, the ball will instead slow down in every direction.  This "break" system was added to further enable the player to make careful and precise movements with the ball.
+
+[Play Breakout Prototype 4](https://mikegray31.github.io/game-dev-spring2025/builds/breakout-final/)
+
+<img src="./images/Prototype4.png" alt="Breakout Prototype 4" width="350">
+
+
