@@ -14,27 +14,27 @@ SMB3’s jump allows for a great control.  The height of the jump can be control
 
 One of the effects that movement has on the level design in SMB3 is that it causes the player to always be looking for flat areas where they can accelerate Mario to top speed.  Whenever the player finds one, it communicates to them that there is some opportunity for a shortcut or a secret area at the end of the path.  On the flipside, the game can also accommodate precise platforming due to the different speeds that Mario can move at.
 
-<img src="./images/SMB3.png" alt="Breakout Prototype 1" width="350">
+<img src="./images/SMB3.png" alt="SMB3" width="350">
 
 
 
 
 
-## Game 2: 
+## Game 2: Kirby's Dream Land
 
 ### Ground Movement
 
-
+In a few words, simple and steady would describe KDL's ground movement.  Kirby only has one, fairly slow speed and nothing else.  This contributes to the game's easy and accessible nature.
 
 ### Jumping
 
-
+The jump is a little more interesting.  One of the key features about KDL is the ability to have infinite "mini jumps" while Kirby is in the air.  In essence, there isn't a limit to how long Kirby can stay in the air.  The only limit is in order to attack while jumping, Kirby has to release the air inside him that is allowing him to float.  This means that a frequent decision in moment to moment gameplay is when you decide to give up your air mobility in exchange to defeat an enemy.
 
 ### Level Design
 
+Precise platforming is not the goal of KDR.  The simple movement and infinite air time, mean that the player never really has to worry about falling off a level.  The crux of the game is instead about using your superior mobility to maneuver around enemies and their attacks.
 
-
-<img src="./images/SMB3.png" alt="Breakout Prototype 1" width="350">
+<img src="./images/KDR.png" alt="KDR" width="350">
 
 
 
