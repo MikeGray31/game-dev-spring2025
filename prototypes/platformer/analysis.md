@@ -16,9 +16,7 @@ One of the effects that movement has on the level design in SMB3 is that it caus
 
 <img src="./images/SMB3.png" alt="Breakout Prototype 1" width="350">
 
-
-
-
+======
 
 ## Game 2: 
 
