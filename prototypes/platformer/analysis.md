@@ -14,7 +14,7 @@ SMB3’s jump allows for a great control.  The height of the jump can be control
 
 One of the effects that movement has on the level design in SMB3 is that it causes the player to always be looking for flat areas where they can accelerate Mario to top speed.  Whenever the player finds one, it communicates to them that there is some opportunity for a shortcut or a secret area at the end of the path.  On the flipside, the game can also accommodate precise platforming due to the different speeds that Mario can move at.
 
-<img src="./images/SMB3.png" alt="SMB3" width="350">
+<img src="./images/SMB3.png" alt="Super Mario Bros. 3" width="350">
 
 
 
@@ -34,24 +34,26 @@ The jump is a little more interesting.  One of the key features about KDL is the
 
 Precise platforming is not the goal of KDR.  The simple movement and infinite air time, mean that the player never really has to worry about falling off a level.  The crux of the game is instead about using your superior mobility to maneuver around enemies and their attacks.
 
-<img src="./images/KDR.png" alt="KDR" width="350">
+<img src="./images/KDR.png" alt="Kirby's Dream Land" width="350">
 
 
 
 
 
-## Game 3: 
+## Game 3: Mega Man X
 
 ### Ground Movement
 
-
+Simple.  Mega Man has two speeds: jogging and stopped.  No acceleration. Mega Man also has a dash that gives him a short burst of speed.
 
 ### Jumping
 
+Jump height is fairly simple as well.  Its height can be controlled like in Super Mario Bros. 3, but instead of increased gravity, Mega Man immediately falls at a constant speed when the jump button is released.
 
+A notable addition is that Mega Man can scale walls by using the jump to hop up along them.
 
 ### Level Design
 
+Levels are designed more so with combat in mind rather than platforming.  Movement is primarily used to find the perfect position where the player can shoot enemies from.  Jumping is used more to dodge around enemy bullets.  This is why the jumping had to be so incredibly precise.  If it were more acceleration based, the player would not have the tools to maneuver the many battles in the game.
 
-
-<img src="./images/SMB3.png" alt="Breakout Prototype 1" width="350">
+<img src="./images/MMX.png" alt="Mega Man X" width="350">
