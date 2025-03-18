@@ -27,4 +27,4 @@ I got some important feedback in both the previous playtest and a playtest a few
 [Play Platformer Prototype 3](https://mikegray31.github.io/game-dev-spring2025/builds/platformer-3/)
 
 <img src="./images/Prototype3Title.png" alt="Platformer Prototype 3 title screen" width="350">
-<img src="./images/Prototype4.png" alt="Platformer Prototype 3" width="350">
+<img src="./images/Prototype3.png" alt="Platformer Prototype 3" width="350">
