@@ -24,7 +24,7 @@ I spent the last few weeks refining some of the mechanics in my Capstone.  I add
 
 I got some important feedback in both the previous playtest and a playtest a few days later in my capstone class. An important lesson I need to learn is that players will not naturally find the dash finisher button without any prompting.  They will continue to just swing the sword without using the dash finisher.  I need to convey the mechanic better.  One way I could do that is by giving them a visible prompt over the target to press the appropriate button.
 
-[Play Platformer Prototype 3](https://mikegray31.github.io/game-dev-spring2025/builds/platformer-3/)
+[Play Platformer Prototype 3](https://mikegray31.github.io/game-dev-spring2025/builds/platformer-2/)
 
 <img src="./images/Prototype3Title.png" alt="Platformer Prototype 3 title screen" width="350">
 <img src="./images/Prototype3.png" alt="Platformer Prototype 3" width="350">
