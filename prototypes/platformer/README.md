@@ -18,13 +18,13 @@ I had to learn quite a bit to implement these mechanics.  There has been a lot o
 
 <img src="./images/Prototype2.png" alt="Platformer Prototype 2" width="350">
 
-## Prototype 3: Refinement
+## Final Prototype: Refinement
 
 I spent the last few weeks refining some of the mechanics in my Capstone.  I added a title screen, some explanation of lore, a short tutorial level, and started on a new level. The mechanics have largely stayed the same, but I did refine them by adding some more "game feel" elements to them.  The sword animates during a dash finisher now, the player blinks red when they take damage, and there is a trail on the dash finisher to emphasize the movement.
 
 I got some important feedback in both the previous playtest and a playtest a few days later in my capstone class. An important lesson I need to learn is that players will not naturally find the dash finisher button without any prompting.  They will continue to just swing the sword without using the dash finisher.  I need to convey the mechanic better.  One way I could do that is by giving them a visible prompt over the target to press the appropriate button.
 
-[Play Platformer Prototype 3](https://mikegray31.github.io/game-dev-spring2025/builds/platformer-2/)
+[Play Platformer Prototype 3](https://mikegray31.github.io/game-dev-spring2025/builds/platformer-final/)
 
 <img src="./images/Prototype3Title.png" alt="Platformer Prototype 3 title screen" width="350">
 <img src="./images/Prototype3.png" alt="Platformer Prototype 3" width="350">
